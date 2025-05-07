@@ -10,7 +10,6 @@ This project is a secure, full-stack banking web application built with Python (
 - 🛡️ Protection against XSS, CSRF, SQL Injection, and user enumeration
 - 👁️‍🗨️ Input validation and error handling with generic error messages
 - 🧪 Fully commented source code to explain security defenses
-- 📄 Clean and readable UI with Jinja2 templates
 
 ## 📁 Project Structure
 
@@ -53,7 +52,6 @@ All major security points are extensively documented in comments throughout the 
 
 - **Flask** (Python Web Framework)
 - **SQLite** (Lightweight embedded database)
-- **Jinja2** (HTML templating with auto-escaping)
 - **JWT** (Authentication tokens)
 - **Python dotenv** (Environment variable handling)
 
